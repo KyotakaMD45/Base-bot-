@@ -9,8 +9,9 @@ global.botNumber = "2250575130788";
 global.bot = {
   public: true,
   antiCall: true,
-  owner: ["2250564458549", "2250564458549", "0564458549"],
-  sessionName: ""
+  owner: ["2250575130788", "", ""],
+  sessionName: "session",
+  prefix: /^[.]/i
 }
 Object.defineProperty(global, 'clock', {
   get: function() {
