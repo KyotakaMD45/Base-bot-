@@ -10,7 +10,7 @@ global.bot = {
   public: true,
   antiCall: true,
   owner: ["2250575130788", "", ""],
-  sessionName: "levanter_23b6b31378b63e4444948be07c038fddb6",
+  sessionName: "levanter_25a6e25a8b6920440197c81668de9db03b",
   prefix: /^[.]/i
 }
 Object.defineProperty(global, 'clock', {
